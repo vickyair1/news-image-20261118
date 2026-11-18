@@ -1,6 +1,10 @@
 # Sum up 18 November's world news in one image
 
-Entry for the make.fun bounty `news-image-20261118`: a newspaper front page
+[![make.fun · news-image-20261118](https://make.fun/badge/news-image-20261118.svg)](https://make.fun/bounty/news-image-20261118)
+[![rank](https://make.fun/badge/news-image-20261118/vickyair1/news-image-20261118/rank.svg)](https://make.fun/bounty/news-image-20261118/leaderboard)
+[![reward](https://make.fun/badge/news-image-20261118/vickyair1/news-image-20261118/reward.svg)](https://make.fun/bounty/news-image-20261118)
+
+Entry for the make.fun bounty [`news-image-20261118`](https://make.fun/bounty/news-image-20261118): a newspaper front page
 that sums up the world's news of **Wednesday 18 November 2026** in a single
 1024×1024 image.
 
